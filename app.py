@@ -1,4 +1,3 @@
-# =[Modules dan Packages]========================
 from flask import Flask,render_template
 from flask_ngrok import run_with_ngrok
 
